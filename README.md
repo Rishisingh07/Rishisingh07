@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishisingh07
-- 👀 I’m interested in learning new technologies and coding.
-- 🌱 I’m currently learning data structures and algorithms.
+- 👋 Hi, This is Rishi Singh
+- 👀 I’m interested in front end developmemt and currently workig with great technology that is dart and flutter.
+- 🌱 I’m currently working on Presence.
 - 💞️ I’m looking to collaborate on github.
 - 📫 You can reach me on instagram - uk_rishi
 
